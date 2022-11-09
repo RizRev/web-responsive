@@ -1,15 +1,17 @@
-/* .has-search .form-control {
-    padding-left: 2.375rem;
-  }
-  
-  .has-search .form-control-feedback {
-    position: absolute;
-    z-index: 2;
-    display: block;
-    width: 2.375rem;
-    height: 2.375rem;
-    line-height: 2.375rem;
-    text-align: center;
-    pointer-events: none;
-    color: #aaa;
-  } */
+body{
+  /* background-color: #7788e9; */
+}
+.kotak {
+  margin:50px;
+  width: 1250px;
+  /* background-color: #c06464; */
+  height :5000px;
+  /* display: flex; */
+  border: 2px;
+  align-items: ;
+  flex-direction: ;
+}
+.isi_kotak_utama{
+  width: 1200px;
+
+}
